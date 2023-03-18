@@ -5,4 +5,5 @@ pallets detection and counting, I split the video into frames, then used these p
 
 # Datadset
 
+https://drive.google.com/drive/u/0/folders/1VSMQRdndxi2lxU4u5povvntqMjOXUVI2
 

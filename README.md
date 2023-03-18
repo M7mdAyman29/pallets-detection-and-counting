@@ -6,3 +6,11 @@ pallets detection and counting, I split the video into frames, then used these p
 # Datadset
 
 https://drive.google.com/drive/u/0/folders/1VSMQRdndxi2lxU4u5povvntqMjOXUVI2
+
+# GoogleColab
+
+https://colab.research.google.com/drive/1HF-9CtMxVY0FbLbDSm7OvSnrGEeOukkG#scrollTo=sa07x5Zzcrps
+
+# Weights
+
+https://drive.google.com/drive/u/0/folders/1JMKy-ft3gj7NX0EjZbtSro1Xl978w_JD
